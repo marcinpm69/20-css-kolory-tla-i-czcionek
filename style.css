@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p.paragraf1 {
+    color: white;
+}
+
+h2 {
+    color: aqua;
+}
+
+p.paragraf2 {
+    color: chocolate;
+}
+
+div {
+    color: green
+}
